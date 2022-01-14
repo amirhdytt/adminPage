@@ -14,3 +14,6 @@ Admin page adalah website halaman admin yang dibuat menggunakan framwork Bootstr
 ## Login Admin
 - Username : hidayatamirul8@gmail.com
 - Password : 1234
+
+# Salin
+Silakan git [Repositrory](https://github.com/amirhdytt/adminPage.git)
